@@ -1,3 +1,7 @@
+## Ameba Remote for Daikin AC
+ Modify from open source
+ Only TX is tested
+ Use GPIO 3 as TX
 
 ## IRdaikin ARC/BRC
 
